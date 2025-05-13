@@ -5,7 +5,7 @@ import {
   useReducer,
   useCallback,
 } from 'react';
-const BASE_URL = 'https://worldwise-vaq4.onrender.com/';
+const BASE_URL = 'https://worldwise-vaq4.onrender.com';
 const CitiesContext = createContext();
 
 const initialState = {
